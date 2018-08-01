@@ -1,5 +1,5 @@
 # GravityFedSequestration
-Lime is heaver than salt water, and CO2 concentrations in the ocean increases with depth.
+Lime is heaver than salt water, and [CO2 concentrations in the ocean increases with depth](http://ksuweb.kennesaw.edu/~jdirnber/BioOceanography/Lectures/LecPhysicalOcean/LecPhysicalOcean.html).
 Lowering lime derived from heat-treating limestone into ocean depths is an opportunity to
 generate energy while improving the efficiency of CO2 absorption.
 
