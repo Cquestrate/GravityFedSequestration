@@ -9,6 +9,11 @@ between that of seawater at > 3 km deep and liquid CO2 at those ocean pressures,
 form a layer on top of a reservoir of sequestered liquid CO2, limiting the diffusion of the
 reservoir's CO2 not only as a barrier but by absorption.
 
+Because thermohaline circulation is so slow that absorbtion of CO2 at great depths can have little
+effect on surface CO2 exchanges on any timescale important for global warming mitigation,
+some means should be devised that buffers the flow of lime so that it spends much of its
+time closer to the surface, even though CO2 concentrations are much lower there.
+
 The energy generated at sea could perhaps be stored in batteries aboard ship. Generating
 hydrogen through electrolysis (though inefficient) is another possibility.
 
